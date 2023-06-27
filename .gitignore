@@ -1,0 +1,12 @@
+cmd_synth.tcl
+gatesim.sh
+sim.sh
+synth.sh
+*_gates.sv
+xvlog.*
+xsim.*
+xelab.*
+*.wdb
+webtalk*
+*.vcd
+*~
